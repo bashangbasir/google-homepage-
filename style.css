@@ -1,0 +1,48 @@
+#top-nav-tab {
+  height: 30px;
+}
+
+.right-nav {
+  float: right;
+}
+
+.left-nav {
+  float: left;
+}
+
+.right-footer {
+  float: right;
+}
+
+.left-footer {
+  float: left;
+  padding-bottom: 10px;
+}
+
+#sign-in {
+  background-color: rgb(0, 147, 238);
+  box-shadow: lightslategray;
+  color: white;
+}
+
+a {
+  font-family: Arial, sans-serif;
+  color: grey;
+  text-decoration: none;
+  font-size: 15px;
+  padding: 7px 7px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(248, 248, 248);
+}
+
+p {
+  padding: 7px;
+  color: rgba(0, 0, 0, 0.54);
+  background-color: rgb(248, 248, 248);
+  opacity: 0.7;
+}
